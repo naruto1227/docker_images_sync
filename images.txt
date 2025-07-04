@@ -1,1 +1,1 @@
-nacos-serve
+nacos-server:latest
