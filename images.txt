@@ -2,3 +2,4 @@ nacos/nacos-server
 amd64/buildpack-deps:noble-curl
 mcr.microsoft.com/dotnet/runtime-deps:9.0.7-noble-amd64
 mcr.microsoft.com/dotnet/aspnet:9.0
+mcr.microsoft.com/dotnet/sdk:9.0
