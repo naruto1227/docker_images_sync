@@ -1,1 +1,1 @@
-mcr.microsoft.com/dotnet/aspnet:9.0
+mcr.microsoft.com/dotnet/runtime:9.0.8-noble-amd64
