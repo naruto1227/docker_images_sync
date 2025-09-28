@@ -1,1 +1,1 @@
-ubuntu.azurecr.io/ubuntu:jammy
+centos:7
